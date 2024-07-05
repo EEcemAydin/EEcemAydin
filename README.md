@@ -6,14 +6,12 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,c,java,py,arduino)](https://github.com/EEcemAydin)
+[![My Skills](https://skillicons.dev/icons?i=gcp,c,c#,java,py,arduino)](https://github.com/EEcemAydin)
 
 ## Account
  
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/EEcemAydin)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eli%CC%87fecemaydi%CC%87n/)
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)]()
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]
 
 ## My Editors 
 
