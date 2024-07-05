@@ -6,7 +6,7 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,c,c#,java,py,arduino)](https://github.com/EEcemAydin)
+[![My Skills](https://skillicons.dev/icons?i=gcp,cs,c#,java,py,arduino)](https://github.com/EEcemAydin)
 
 ## Account
  
