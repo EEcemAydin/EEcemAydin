@@ -24,6 +24,6 @@
 
 ##
 
-[![](https://visitcount.itsvg.in/api?id=melih-akman&label=Profile%20Views&icon=5&pretty=true)](https://github.com/EEcemAydin)
+[![](https://visitcount.itsvg.in/api?id=EEcemAydin&label=Profile%20Views&icon=5&pretty=true)](https://github.com/EEcemAydin)
 
 
